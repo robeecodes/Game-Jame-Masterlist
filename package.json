@@ -1,0 +1,19 @@
+{
+  "name": "game-jam-repo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.80.6",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "vite-plugin-restart": "^0.4.1"
+  }
+}
