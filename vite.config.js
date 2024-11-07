@@ -19,4 +19,5 @@ export default defineConfig({
         [
             restart({ restart: [ '../static/**', ] }) // Restart server on static file change
         ],
+    base: ''
 });
